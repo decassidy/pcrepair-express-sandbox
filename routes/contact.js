@@ -18,7 +18,7 @@ router.post('/send', function(req, res, next) {
 <<<<<<< HEAD
       pass: ''
 =======
-      pass: 'Noah2003'
+      pass: ''
 >>>>>>> dff54315a353a74ea5d773704f609d41f1050e31
     }
   });
