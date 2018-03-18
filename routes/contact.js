@@ -15,7 +15,11 @@ router.post('/send', function(req, res, next) {
     service: 'Gmail',
     auth: {
       user: 'dc69@student.london.ac.uk',
+<<<<<<< HEAD
       pass: ''
+=======
+      pass: 'Noah2003'
+>>>>>>> dff54315a353a74ea5d773704f609d41f1050e31
     }
   });
 
