@@ -16,12 +16,6 @@ router.post('/send', function(req, res, next) {
     auth: {
       user: 'dc69@student.london.ac.uk',
       pass: ''
-<<<<<<< HEAD
-=======
-=======
-      pass: ''
->>>>>>> dff54315a353a74ea5d773704f609d41f1050e31
->>>>>>> ee5624d2d46dcb2743800920a2aae2ef733785e0
     }
   });
 
